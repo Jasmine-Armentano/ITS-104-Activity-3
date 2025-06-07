@@ -1,6 +1,6 @@
 using System;
 
-namespace TestTime
+namespace Time
 {
     public struct Time
     {
